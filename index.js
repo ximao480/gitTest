@@ -3,7 +3,7 @@
 // see http://vuejs-templates.github.io/webpack for documentation.
 
 const path = require('path')
-
+  console.log('我在dev分支修改内容')
 module.exports = {
   dev: {
 
